@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hetalsharmaaa/l/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/hetalsharmaaa/l/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/hetalsharmaaa/l/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hetalsharmaaa/l/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hetalsharmaaa/l/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hetalsharmaaa/l/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
